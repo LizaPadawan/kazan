@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          SHOW MUST GO ON
         </a>
       </header>
     </div>
